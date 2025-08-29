@@ -4,7 +4,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background: linear-gradient(135deg, #3f87a6, #ebf8e1, #f69d3c);
+      background: linear-gradient(135deg, #669bbc, #003049, #780000);
       font-family: Arial, sans-serif;
       animation: backgroundShift 10s infinite alternate;
     }
